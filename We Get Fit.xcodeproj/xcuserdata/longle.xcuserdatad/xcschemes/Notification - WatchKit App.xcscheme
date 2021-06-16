@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0630"
+   version = "2.0">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "45FBFC251AB386F20095A7A8"
+               BuildableName = "We Get Fit WatchKit App.app"
+               BlueprintName = "We Get Fit WatchKit App"
+               ReferencedContainer = "container:We Get Fit.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "45F4778A19EE52B300E991DD"
+               BuildableName = "We Get Fit.app"
+               BlueprintName = "We Get Fit"
+               ReferencedContainer = "container:We Get Fit.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "45FBFC161AB386F20095A7A8"
+               BuildableName = "We Get Fit WatchKit Extension.appex"
+               BlueprintName = "We Get Fit WatchKit Extension"
+               ReferencedContainer = "container:We Get Fit.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      buildConfiguration = "Debug">
+      <Testables>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "45FBFC251AB386F20095A7A8"
+            BuildableName = "We Get Fit WatchKit App.app"
+            BlueprintName = "We Get Fit WatchKit App"
+            ReferencedContainer = "container:We Get Fit.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </TestAction>
+   <LaunchAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      allowLocationSimulation = "YES"
+      launchAutomaticallySubstyle = "16"
+      notificationPayloadFile = "Fitness WatchKit Extension/PushNotificationPayload.apns">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.springboard"
+         RemotePath = "/Fitness">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "45FBFC251AB386F20095A7A8"
+            BuildableName = "We Get Fit WatchKit App.app"
+            BlueprintName = "We Get Fit WatchKit App"
+            ReferencedContainer = "container:We Get Fit.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "45FBFC251AB386F20095A7A8"
+            BuildableName = "We Get Fit WatchKit App.app"
+            BlueprintName = "We Get Fit WatchKit App"
+            ReferencedContainer = "container:We Get Fit.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Release"
+      debugDocumentVersioning = "YES">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.springboard"
+         RemotePath = "/Fitness">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "45FBFC251AB386F20095A7A8"
+            BuildableName = "We Get Fit WatchKit App.app"
+            BlueprintName = "We Get Fit WatchKit App"
+            ReferencedContainer = "container:We Get Fit.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "45FBFC251AB386F20095A7A8"
+            BuildableName = "We Get Fit WatchKit App.app"
+            BlueprintName = "We Get Fit WatchKit App"
+            ReferencedContainer = "container:We Get Fit.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
